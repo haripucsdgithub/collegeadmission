@@ -1,0 +1,22 @@
+ TYPES OF EXCEPTIONS
+ 1. user- defined exception
+ 2. built-in-exception
+
+types of built-in-exception:
+
+a. Checked Exceptions / Compile Time Exceptions -
+   1- classnotfoundexception
+   2- InterruptedException
+   3- IOException
+   4- InstaitionException
+   5- SQLException
+   6- FileNotFoundException
+
+b. Unchecked Exception-
+   1- ArithmaticException
+   2- ClassCastException
+   3- NullPointerException
+   4- ArrayIndexOutOfBoundsException
+   5- ArryStoreException
+   6- IllegalThreadStateException.
+
