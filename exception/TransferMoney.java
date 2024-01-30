@@ -4,7 +4,7 @@ public class TransferMoney {
 
     public static void main(String[] args) {
 
-        //String message = method("123", "345", 1234, 100);
+        String message = method("123", "345", 1234, 100);
         String message1 = method1("123", "345", 1234, 100);
 
     }
