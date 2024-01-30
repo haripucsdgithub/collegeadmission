@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ArrayPalindrome {
     public static void main(String[] args) {
-//        System.out.println("enter size of array");
+//        System.out.println("enter ±size of array");
 //        Scanner scanner = new Scanner(System.in);
 //        int size = scanner.nextInt();
 //        char[] arr = new char[size];
