@@ -1,17 +1,18 @@
 package com.example.demo.practice;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+
+import com.example.demo.classes.Student;
+
+import java.util.logging.Logger;
 
 public class StaticMethods {
-    Logger logger = LoggerFactory.getLogger(StaticMethods.class);
     public static void main(String[] args) {
 //        display("Hello world");
 //        StaticMethods staticMethods = new StaticMethods();
 //        staticMethods.displayObject("Hello World");
-        Student s1 = new Student(1, "Mayuri");
-        Student s2 = new Student(2, "Satish");
-        Student s3 = new Student(2, "Hari");
+        Student s1 = new Student();
+        Student s2 = new Student();
+        Student s3 = new Student();
 
     }
 //    public static void display(String message) {
