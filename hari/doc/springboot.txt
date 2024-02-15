@@ -1,5 +1,8 @@
 Spring boot is a framework build on top of spring framework.
-Spring boot is an advance version of spring framework.
+Spring boot is an advance version of spring
+With the help of spring boot we can do faster developer.
+No need to write boiler plate code (code which is not related to business requirement)
+We can create spring boot application in multiple ways but most popular way is using Spring initializer.
 
 dependency management tool/plugin
     MAVEN
@@ -8,3 +11,5 @@ library - it is nothing but set of classes
 annotaion (always starts with @)
 
 in spring boot for library we called it as dependency.
+
+
