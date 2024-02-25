@@ -13,5 +13,31 @@ public class ListInteratorExample {
         while(iterator.hasNext()) {
             System.out.println(iterator.next());
         }
+        if(list.contains("Hari")) {
+            System.out.println("Present");
+        } else {
+            System.out.println("abset");
+        }
+    }
+
+    public static void main1(String[] args) {
+        String[] arr = new String[2];
+        arr[1]="Hari";
+        arr[0]="Nale";
+
+        boolean found = false;
+        for(int i=0;i<arr.length;i++) {
+            if("Hari1".equals(arr[i])) {
+                found = true;
+            }
+        }
+
+        if(found) {
+            System.out.println("Present");
+        } else {
+            System.out.println("Absent");
+        }
+
+
     }
 }
